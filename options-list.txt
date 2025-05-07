@@ -1,3 +1,5 @@
+SOURCE: https://js.dearflip.com/docs/options-list/
+
 var options = {
 
     //sets if to use 3d or not (true|false)
